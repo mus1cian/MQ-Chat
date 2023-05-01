@@ -1,0 +1,22 @@
+{
+  "name": "messages",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas de protocólo AMQP con rabbit",
+  "main": "ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amqp",
+    "rabbitmq"
+  ],
+  "author": "Valeria Nevárez",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "prompt-sync": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
